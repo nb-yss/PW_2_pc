@@ -1,0 +1,66 @@
+C:\Users\TI\Desktop\PROJETO\bin\Debug\netcoreapp2.0\PROJETO.deps.json
+C:\Users\TI\Desktop\PROJETO\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.json
+C:\Users\TI\Desktop\PROJETO\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.dev.json
+C:\Users\TI\Desktop\PROJETO\bin\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO\bin\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO\obj\Debug\netcoreapp2.0\PROJETO.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\PROJETO\obj\Debug\netcoreapp2.0\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\PROJETO\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\PROJETO\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfo.cs
+C:\Users\TI\Desktop\PROJETO\obj\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO\obj\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.deps.json
+C:\Users\TI\Desktop\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.json
+C:\Users\TI\Desktop\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.dev.json
+C:\Users\TI\Desktop\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfo.cs
+C:\Users\TI\Desktop\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.deps.json
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.json
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.dev.json
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfo.cs
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.deps.json
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.json
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.dev.json
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfo.cs
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO - code-20190815T224917Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.deps.json
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.json
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.dev.json
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\PROJETO - code-20190822T221240Z-001\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfo.cs
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.deps.json
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.json
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.runtimeconfig.dev.json
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.dll
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\bin\Debug\netcoreapp2.0\PROJETO.pdb
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\PROJETO - code-Funcionando\PROJETO - code\obj\Debug\netcoreapp2.0\PROJETO.AssemblyInfo.cs

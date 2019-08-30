@@ -1,0 +1,170 @@
+@{
+    ViewData["Title"] = "Cadastro  de usuarios ";
+    var hoje = DateTime.Today.ToString("yyyy-MM-dd");
+
+}
+<h2>@ViewData["Title"]</h2>
+
+<form>
+    <fieldset class="border">
+        <legend>Dados Pessoais</legend>
+        <div class="form-group">
+            <label for="nome">Nome</label>
+            <input type="text" placeholder="Nome Completo" name="nome" required class="form-control">
+        </div>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-4">
+                    <label for="dtNascimento"> Data de Nascimento</label>
+                    <input type="date" placeholder="Data De Nascimento" name="dtNascimento" value="@hoje" required class="form-control">
+                </div>
+                <div class="col-sm-4">
+                    <label for="rg">RG</label>
+                    <input type="text" placeholder="RG" name="rg" required class="form-control">
+                </div>
+                <div class="col-sm-4">
+                    <label for="cpf">CPF</label>
+                    <input type="text" placeholder="CPF" name="cpf" required class="form-control">
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="border">
+        <legend>Filiação</legend>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-lg-6">
+                    <label for="nome do pai">Nome Do Pai</label>
+                    <input type="text" placeholder="nome do pai" name="nome do pai" required class="form-control">
+                </div>
+                <div class="col-lg-6">
+                    <label for="nome da mãe">Nome Da Mãe</label>
+                    <input type="text" placeholder="nome da mãe" name="nome da mãe" required class="form-control">
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="border">
+        <legend>Dados Estudantis</legend>
+        <div class="form-group">
+            <div class="row">
+                <div class="form-group form-check col-sm-3">
+                    <input type="checkbox" class="form-check-input" id="exampckbAlunoleCheck">
+                    <label class="form-check-label" for="cbkAluno">Aluno</label>
+                </div>
+                <div class="col-sm-3">
+                    <label for="matricula">Matricula</label>
+                    <input type="text" placeholder="matricula" name="matricula" required class="form-control">
+                </div>
+                <div class="col-sm-3">
+                    <label for="turma">Turma</label>
+                    <input type="text" placeholder="turma" name="turma" required class="form-control">
+                </div>
+                <div class="col-sm-3">
+                    <label for="horario">Horario</label>
+                    <input type="text" placeholder="horario" name="horario" required class="form-control">
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="border">
+        <legend>Contatos</legend>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-3">
+                    <label for="celular">Tel. Celular</label>
+                    <input type="number" placeholder="tel. celular" name="celular" required class="form-control">
+                </div>
+                <div class="col-sm-3">
+                    <label for="residencial">Tel. Residencial</label>
+                    <input type="number" placeholder="tel. residensial" name="residencial" required class="form-control">
+                </div>
+                <div class="col-sm-3">
+                    <label for="recado">Tel. Recado</label>
+                    <input type="number" placeholder="tel. recado" name="recado" required class="form-control">
+                </div>
+                <div class="col-sm-3">
+                    <label for="nome do contato">Nome Do Contato</label>
+                    <input type="number" placeholder="nome do contato" name="nome do contato" required class="form-control">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <label for="e-mail">E-Mail</label>
+                <input type="text" placeholder="e-mail" name="e-mail" required class="form-control">
+            </div>
+            <div class="col-lg-6">
+                <label for="pagina pessoal">Pagina Pessoal</label>
+                <input type="text" placeholder="http:/www" name="http:/www" required class="form-control">
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="border">
+        <legend>Endereço</legend>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-2">
+                    <label for="cep">CEP</label>
+                    <input type="text" placeholder="CEP" name="cep" required class="form-control">
+                </div>
+                <div class="col-lg-6">
+                    <label for="logradouro">Logradouro</label>
+                    <input type="text" placeholder="logradouro" name="logradouro" required class="form-control">
+                </div>
+                <div class="col-sm-2">
+                    <label for="numero">Numero</label>
+                    <input type="number" placeholder="numero" name="numero" required class="form-control">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <label for="cidade">Cidade</label>
+                    <input type="text" placeholder="cidade" name="cidade" required class="form-control">
+                </div>
+                <div class="col-lg-1">
+                    <label for="UF">UF</label>
+                    <select id="UF">
+                        <option value="ACRE">AC</option>
+                        <option value="ALAGOAS">AL</option>
+                        <option value="AMAPÁ">AP</option>
+                        <option value="AMAZONAS">AM</option>
+                        <option value="BAHIA">BA</option>
+                        <option value="CEARÁ">CE</option>
+                        <option value="DISTRITO FEDERAL">DF</option>
+                        <option value="ESPIRITO SANTO">ES</option>
+                        <option value="GOIAS">GO</option>
+                        <option value="MARANHÃO">MA</option>
+                        <option value="MATO GROSSO">MT</option>
+                        <option value="MATO GROSSO DO SUL">MS</option>
+                        <option value="MINAS GERAIS">MG</option>
+                        <option value="PARA">PA</option>
+                        <option value="PARAIBA">PB</option>
+                        <option value="PARANA">PR</option>
+                        <option value="PERNAMBUCO">PE</option>
+                        <option value="PIAUÍ">PI</option>
+                        <option value="RIO DE JANEIRO">RJ</option>
+                        <option value="RIO GRANDE DO NORTE">RN</option>
+                        <option value="RIO GRANDE DO SUL">RS</option>
+                        <option value="RONDÔNIA">RO</option>
+                        <option value="RORAIMA">RR</option>
+                        <option value="SÃO PAULO">SP</option>
+                        <option value="SERGIPE">SE</option>
+                        <option value="TOCANTINS">TO</option>
+                    </select>
+
+                </div>
+                <div class="col-lg-5">
+                    <label for="ponto de referencia">Ponto De Referencia</label>
+                    <input type="text" placeholder="ponto de referencia" name="ponto de referencia" required class="form-control">
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <button type="button" class="btn btn-success">Cadastrar</button>
+    <button type="button" class="btn btn-danger">Cancelar</button>
+
+</form>
+
+
+
